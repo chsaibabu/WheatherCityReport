@@ -1,0 +1,41 @@
+.nav {
+  width: auto;
+  display: flex;
+  justify-content: space-around;
+}
+.table th,
+td {
+  border: 1px #000;
+}
+
+.table th,
+.table td {
+  border: 1px solid rgb(12, 12, 12);
+  padding: 8px;
+  text-align: center;
+}
+table th.date {
+  text-align: center;
+  background-color: #f1674c !important;
+}
+
+input {
+  border: coral 1px solid;
+  margin-top: 39px;
+  padding: 6px 12px;
+  border-radius: 5px;
+}
+.heading {
+  color: coral;
+}
+i {
+  color: #000;
+  height: 50px;
+  width: 50px;
+}
+.button {
+  background: coral;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 5px;
+}
